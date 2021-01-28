@@ -73,7 +73,7 @@ If you have any questions about this Policy, you can contact us: [bruce8.0@outlo
 
 All personal data is handled under the terms and conditions of FontsX privacy policy. More details can be found here:
 
-Privacy Policy: [https://fontsx.github.io/privacy](https://fontsx.github.io/privacy)
+Privacy Policy: [https://bruce2077.github.io/fontsx_privacy/](https://bruce2077.github.io/fontsx_privacy/)
 
 Terms of Use: [https://bruce2077.github.io/fontsx_terms](https://bruce2077.github.io/fontsx_terms)
 
